@@ -28,7 +28,7 @@ A festive terminal-based animation written in C++ to celebrate the Christmas spi
 ```bash
 # Clone the repository
 git clone https://github.com/phucdevz/Christmas.git
-cd Christmas
+cd ChristmasCPP
 
 # Compile the source code
 g++ -std=c++17 -pthread -o christmas main.cpp
